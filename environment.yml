@@ -4,3 +4,7 @@ channels:
 dependencies:
   - numpy
   - matplotlib
+  - pandas
+  - tensorflow
+  - keras
+  - scikit-learn
